@@ -6,7 +6,6 @@ Greetings! I'm Muhammad Haseeb Ali, a passionate and seasoned Senior .NET Develo
 
 ### 🚀 Quick Overview
 
-[comment]: <> - 🔭 I’m currently working on [current project or focus].
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Ask me about [your expertise or areas of interest].
 - 📫 How to reach me: haseeb.has96@gmail.com.
