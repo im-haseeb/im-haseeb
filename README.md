@@ -1,15 +1,15 @@
-# Haseeb - Senior .NET Developer
+# Muhammad Haseeb Ali - Senior .NET Developer
 
 ## 👋 Welcome to My GitHub Profile!
 
-Greetings! I'm [Your Name], a passionate and seasoned Senior .NET Developer with a strong background in designing and implementing innovative software solutions. I specialize in [mention any specific areas or technologies you're proficient in, e.g., ASP.NET, MVC, Web API, etc.].
+Greetings! I'm Muhammad Haseeb Ali, a passionate and seasoned Senior .NET Developer with a strong background in designing and implementing innovative software solutions. I specialize in [mention any specific areas or technologies you're proficient in, e.g., ASP.NET, MVC, Web API, etc.].
 
 ### 🚀 Quick Overview
 
-- 🔭 I’m currently working on [current project or focus].
+[comment]: <> - 🔭 I’m currently working on [current project or focus].
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Ask me about [your expertise or areas of interest].
-- 📫 How to reach me: [Provide your email or preferred contact method].
+- 📫 How to reach me: haseeb.has96@gmail.com.
 
 ### 🛠️ Technologies & Tools
 
@@ -20,17 +20,6 @@ Here are some technologies and tools I frequently work with:
 - **Databases:** SQL Server, Entity Framework.
 - **Tools:** Visual Studio, Git, [any other tools you frequently use].
 
-### 📂 Featured Projects
-
-#### [Project Name 1]
-Brief description or tagline about the project. Highlight key features and technologies used.
-
-[Add a link to the project repository or live demo if applicable]
-
-#### [Project Name 2]
-Brief description or tagline about the project. Highlight key features and technologies used.
-
-[Add a link to the project repository or live demo if applicable]
 
 ### 📈 GitHub Stats
 
