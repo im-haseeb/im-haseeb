@@ -1,4 +1,4 @@
-# [Your Name] - Senior .NET Developer
+# Haseeb - Senior .NET Developer
 
 ## 👋 Welcome to My GitHub Profile!
 
@@ -34,7 +34,7 @@ Brief description or tagline about the project. Highlight key features and techn
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-haseeb&show_icons=true&theme=dark)
 
 ### 🌐 Connect with Me
 
