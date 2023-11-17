@@ -26,9 +26,7 @@ Here are some technologies and tools I frequently work with:
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Website/Blog](https://www.your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-ali-117919194/) 
 
 ### 🤝 Let's Collaborate!
 
