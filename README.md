@@ -7,7 +7,6 @@ Greetings! I'm Muhammad Haseeb Ali, a passionate and seasoned Senior .NET Develo
 ### 🚀 Quick Overview
 
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💬 Ask me about [your expertise or areas of interest].
 - 📫 How to reach me: haseeb.has96@gmail.com.
 
 ### 🛠️ Technologies & Tools
@@ -17,7 +16,7 @@ Here are some technologies and tools I frequently work with:
 - **Languages:** C#, .NET, [other relevant languages].
 - **Web Technologies:** ASP.NET, HTML, CSS, JavaScript.
 - **Databases:** SQL Server, Entity Framework.
-- **Tools:** Visual Studio, Git, [any other tools you frequently use].
+- **Tools:** Visual Studio, Git, Visual Sudio.
 
 
 ### 📈 GitHub Stats
